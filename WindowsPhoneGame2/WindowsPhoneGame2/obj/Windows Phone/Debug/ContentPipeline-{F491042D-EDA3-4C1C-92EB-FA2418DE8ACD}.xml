@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-11-02T21:48:52.9793011-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgMainGame.png</Source>
+      <Name>bgMainGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgMainGame.xnb</Output>
+      <Time>2013-11-02T03:58:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultCard.png</Source>
+      <Name>defaultCard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\defaultCard.xnb</Output>
+      <Time>2013-11-02T17:44:31.8031504-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card01.png</Source>
+      <Name>card01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card01.xnb</Output>
+      <Time>2013-11-02T18:51:54.8658414-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card02.png</Source>
+      <Name>card02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card02.xnb</Output>
+      <Time>2013-11-02T18:51:54.8688416-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card03.png</Source>
+      <Name>card03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card03.xnb</Output>
+      <Time>2013-11-02T18:51:54.8728465-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card04.png</Source>
+      <Name>card04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card04.xnb</Output>
+      <Time>2013-11-02T18:51:54.8768437-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card05.png</Source>
+      <Name>card05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card05.xnb</Output>
+      <Time>2013-11-02T18:51:54.8808413-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card06.png</Source>
+      <Name>card06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card06.xnb</Output>
+      <Time>2013-11-02T18:51:54.8868446-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card07.png</Source>
+      <Name>card07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card07.xnb</Output>
+      <Time>2013-11-02T18:51:54.8908495-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card08.png</Source>
+      <Name>card08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card08.xnb</Output>
+      <Time>2013-11-02T18:51:54.8948462-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card09.png</Source>
+      <Name>card09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card09.xnb</Output>
+      <Time>2013-11-02T18:51:54.9008456-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card10.png</Source>
+      <Name>card10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card10.xnb</Output>
+      <Time>2013-11-02T18:51:54.904848-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card11.png</Source>
+      <Name>card11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card11.xnb</Output>
+      <Time>2013-11-02T18:51:54.9088452-07:00</Time>
+    </Item>
+    <Item>
+      <Source>card12.png</Source>
+      <Name>card12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card12.xnb</Output>
+      <Time>2013-11-02T18:51:54.9128466-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgMenuGame.png</Source>
+      <Name>bgMenuGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgMenuGame.xnb</Output>
+      <Time>2013-11-02T05:00:39-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgAboutGame.png</Source>
+      <Name>bgAboutGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgAboutGame.xnb</Output>
+      <Time>2013-11-02T18:54:48.8929081-07:00</Time>
+    </Item>
+    <Item>
+      <Source>losePopup.png</Source>
+      <Name>losePopup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\losePopup.xnb</Output>
+      <Time>2013-11-02T19:44:55.3251464-07:00</Time>
+    </Item>
+    <Item>
+      <Source>winPopup.png</Source>
+      <Name>winPopup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\winPopup.xnb</Output>
+      <Time>2013-11-02T19:44:55.3161476-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F491042D-EDA3-4C1C-92EB-FA2418DE8ACD}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-02T00:18:06.6492915-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

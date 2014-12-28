@@ -1,0 +1,37 @@
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WindowsPhoneGame2.csprojResolveAssemblyReference.cache
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgMainGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\defaultCard.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card01.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card02.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card03.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card04.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card05.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card06.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card07.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card08.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card09.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card10.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card11.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\card12.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgMenuGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\bgAboutGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\losePopup.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Content\winPopup.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Couple Minion.dll
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Couple Minion.pdb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\Couple Minion.dll
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\Couple Minion.pdb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Couple Minion.xap
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\Couple Minion.xap
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

@@ -1,0 +1,114 @@
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\SpriteFont1.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\bgMenuGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\defaultCard.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\bgMainGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card01.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card02.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card03.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card04.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card05.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card06.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card07.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card08.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card09.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card10.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card11.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\card12.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\bgAboutGame.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\losePopup.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\winPopup.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Menu.xnb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Menu.wma
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.dll
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.pdb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Couple Minion.dll
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Couple Minion.pdb
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.xap
+C:\Users\tieunun\documents\visual studio 2012\Projects\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\BG_About.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\BG_Game.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\BG_Menu.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\BT_Player_Phone.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\BT_Player_Player.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\G_Board.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\G_Chess_Blue.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\G_Chess_Pink.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\G_Score_Blue.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\G_Score_Pink.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\PU_Help.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\PU_Lose.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\PU_Mode.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\PU_Win.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\SBT_Help.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\SBT_Menu.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\SBT_Reset.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.dll
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.pdb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WindowsPhoneGame2.csprojResolveAssemblyReference.cache
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Couple Minion.dll
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Couple Minion.pdb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Couple Minion.xap
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\lose.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\selectButton.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\success.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\win.xnb
+C:\Users\tieunun\Documents\Visual Studio 2012\Projects\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.wma
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\lose.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\selectButton.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\success.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\win.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.wma
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WindowsPhoneGame2.csprojResolveAssemblyReference.cache
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_About.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_Game.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_Menu.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BT_Player_Phone.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BT_Player_Player.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Board.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Chess_Blue.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Chess_Pink.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Score_Blue.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Score_Pink.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Blue_Win.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Draw_Game.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Help.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Lose.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Mode.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_NoMove.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Pink_Win.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Win.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_You_Lose.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_You_Win.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Help.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Menu.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_MusicOff.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Reset.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\ScoreFont.xnb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Qthello.dll
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Qthello.pdb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Qthello.dll
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\Qthello.pdb
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Qthello.xap
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Qthello.xap
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\

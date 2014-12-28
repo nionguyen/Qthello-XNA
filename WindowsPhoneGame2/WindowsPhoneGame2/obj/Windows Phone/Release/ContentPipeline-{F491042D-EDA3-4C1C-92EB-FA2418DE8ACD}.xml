@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\bgSong.mp3</Source>
+      <Name>Sounds\bgSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.xnb</Output>
+      <Extra>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\bgSong.wma</Extra>
+      <Time>2013-11-03T15:28:40.5304382-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lose.wav</Source>
+      <Name>Sounds\lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\lose.xnb</Output>
+      <Time>2013-11-03T15:28:40.5564364-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\selectButton.wav</Source>
+      <Name>Sounds\selectButton</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\selectButton.xnb</Output>
+      <Time>2013-11-03T15:28:40.561435-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\success.wav</Source>
+      <Name>Sounds\success</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\success.xnb</Output>
+      <Time>2013-11-03T15:28:40.5674926-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\win.wav</Source>
+      <Name>Sounds\win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sounds\win.xnb</Output>
+      <Time>2013-11-03T15:28:40.5734355-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\BG_About.png</Source>
+      <Name>Resource\BG_About</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_About.xnb</Output>
+      <Time>2013-11-03T17:11:35.9500841-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\BG_Game.png</Source>
+      <Name>Resource\BG_Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_Game.xnb</Output>
+      <Time>2013-11-03T17:11:35.9590888-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\BG_Menu.png</Source>
+      <Name>Resource\BG_Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BG_Menu.xnb</Output>
+      <Time>2013-11-03T17:11:35.964086-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\BT_Player_Phone.png</Source>
+      <Name>Resource\BT_Player_Phone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BT_Player_Phone.xnb</Output>
+      <Time>2013-11-03T17:11:35.9680862-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\BT_Player_Player.png</Source>
+      <Name>Resource\BT_Player_Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\BT_Player_Player.xnb</Output>
+      <Time>2013-11-03T17:11:35.9740869-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\G_Board.png</Source>
+      <Name>Resource\G_Board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Board.xnb</Output>
+      <Time>2013-11-03T17:11:36.0050914-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\G_Chess_Blue.png</Source>
+      <Name>Resource\G_Chess_Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Chess_Blue.xnb</Output>
+      <Time>2013-11-03T17:11:36.0100912-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\G_Chess_Pink.png</Source>
+      <Name>Resource\G_Chess_Pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Chess_Pink.xnb</Output>
+      <Time>2013-11-03T17:11:36.0150949-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\G_Score_Blue.png</Source>
+      <Name>Resource\G_Score_Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Score_Blue.xnb</Output>
+      <Time>2013-11-03T17:11:36.0190925-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\G_Score_Pink.png</Source>
+      <Name>Resource\G_Score_Pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\G_Score_Pink.xnb</Output>
+      <Time>2013-11-03T17:11:36.0911016-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Blue_Win.png</Source>
+      <Name>Resource\PU_Blue_Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Blue_Win.xnb</Output>
+      <Time>2013-11-03T18:00:33.4936201-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Draw_Game.png</Source>
+      <Name>Resource\PU_Draw_Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Draw_Game.xnb</Output>
+      <Time>2013-11-03T17:11:36.1011068-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Help.png</Source>
+      <Name>Resource\PU_Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Help.xnb</Output>
+      <Time>2013-11-03T17:11:36.1051035-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Lose.png</Source>
+      <Name>Resource\PU_Lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Lose.xnb</Output>
+      <Time>2013-11-03T17:11:36.1091041-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Mode.png</Source>
+      <Name>Resource\PU_Mode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Mode.xnb</Output>
+      <Time>2013-11-03T17:11:36.1131043-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_NoMove.png</Source>
+      <Name>Resource\PU_NoMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_NoMove.xnb</Output>
+      <Time>2013-11-03T17:11:36.1171097-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Pink_Win.png</Source>
+      <Name>Resource\PU_Pink_Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Pink_Win.xnb</Output>
+      <Time>2013-11-03T17:11:36.1231104-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_Win.png</Source>
+      <Name>Resource\PU_Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_Win.xnb</Output>
+      <Time>2013-11-03T17:11:36.1271097-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_You_Lose.png</Source>
+      <Name>Resource\PU_You_Lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_You_Lose.xnb</Output>
+      <Time>2013-11-03T17:11:36.1301069-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\PU_You_Win.png</Source>
+      <Name>Resource\PU_You_Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\PU_You_Win.xnb</Output>
+      <Time>2013-11-03T17:11:36.1351067-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\SBT_Help.png</Source>
+      <Name>Resource\SBT_Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Help.xnb</Output>
+      <Time>2013-11-03T17:11:36.1391077-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\SBT_Menu.png</Source>
+      <Name>Resource\SBT_Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Menu.xnb</Output>
+      <Time>2013-11-03T17:11:36.1441123-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\SBT_MusicOff.png</Source>
+      <Name>Resource\SBT_MusicOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_MusicOff.xnb</Output>
+      <Time>2013-11-03T17:11:36.1481086-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Resource\SBT_Reset.png</Source>
+      <Name>Resource\SBT_Reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Resource\SBT_Reset.xnb</Output>
+      <Time>2013-11-03T17:11:36.1521092-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\ScoreFont.xnb</Output>
+      <Time>2013-11-03T17:21:58.6861175-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F491042D-EDA3-4C1C-92EB-FA2418DE8ACD}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tieunun\Desktop\Xu\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-02T00:18:06.6492915-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
